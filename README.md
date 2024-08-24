@@ -1,5 +1,3 @@
-# Intro
-
 In this project, we analyse social media data, specifically focusing on the Twitter activity of two major news organisations: BBC and CNN. 
 The project involves several stages, beginning with the extraction of tweets from the official Twitter accounts of BBC and CNN . The collected data undergoes preprocessing to ensure it is clean and ready for analysis. We explore the most frequently used words in these tweets, leveraging various techniques like bar charts, word clouds, Word2Vec, and autoencoders to uncover patterns and key theme.
 The project also incorporates advanced Natural Language Processing (NLP ) techniques such as Named Entity Recognition (NER) and sentiment analysis to gain deeper insights into the content of the tweets. We conduct exploratory data analysis to identify posting patterns and trends, and also apply text summarization methods to find the essence of the tweets.
